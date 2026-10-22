@@ -1,174 +1,138 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="30px"> Hi, I'm Ayush Koli
-
 <div align="center">
-  
-### 🚀 Full-Stack Developer | MERN Stack | Tech Creator @TechAkki
-### 📍 Pune, Maharashtra | 🎯 Aspiring Big Tech Engineer
+
+<!-- Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=250&section=header&text=Ayush%20Koli&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tech%20Creator%20%40TechAkki&descAlignY=55&descSize=20" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Building+with+the+MERN+Stack+%F0%9F%9A%80;Mastering+DSA+for+Big+Tech+%F0%9F%92%BB;Creating+Tech+Content+%40TechAkki+%F0%9F%8E%A5;Future+Software+Engineer+%40+Top+Tech+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushh-koli-9429a03a6)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theayush737-prog)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TechAkki)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushdevx10@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=theayush737-prog&color=a371f7&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 ---
 
-## 💻 About Me
+## ⚡ About Me
 
-```javascript
-const ayush = {
-  name: "Ayush Koli",
-  role: "Full-Stack Developer",
-  specialization: "MERN Stack",
-  passion: "Building scalable web applications",
-  goal: "Secure a role at Google, Microsoft, or Amazon",
-  funFact: "I also create tech content on YouTube 🎥"
-};
+<img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif/Coding.gif">
+
+```yaml
+Developer: Ayush Koli
+Location: Pune, Maharashtra, India
+Stack: MERN (MongoDB, Express, React, Node.js)
+Currently Building: Snapcut, NetMirror
+Currently Learning: DSA, System Design
+Creator: TechAkki on YouTube
+Mission: Big Tech Engineer + Entrepreneur
 ```
 
-I'm a **full-stack developer** passionate about:
-- 🏗️ Building real-world web applications
-- 📚 Mastering Data Structures & Algorithms
-- 🎬 Creating tech content for my YouTube channel
-- 🚀 Preparing for top tech company interviews
+- 🔭 Building real web products end-to-end with the **MERN stack**
+- 📚 Grinding **DSA & System Design** for top tech company interviews
+- 🎥 Creating tech content on **TechAkki** (YouTube)
+- ⚡ Fun fact: I ship code *and* make videos about shipping code
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-4285F4?style=for-the-badge)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Builds
 
 <div align="center">
 
-### 1. **Snapcut** - Background Remover
-[🔗 Live Demo](https://snapcut.com) | [📂 GitHub Repo](https://github.com/theayush737-prog/snapcut)
+<table>
+<tr>
+<td width="50%">
 
-A web application that removes image backgrounds instantly using AI.
-- Built with: **React, Node.js, AI APIs**
-- Features: Instant background removal, download high-quality images
-- ⭐ Most Popular Project
+### ✂️ Snapcut
+**AI Background Remover**
 
----
+Removes image backgrounds instantly in-browser.
 
-### 2. **NetMirror** - URL Redirecting Platform
-[🔗 Live Demo](https://netmirror.com) | [📂 GitHub Repo](https://github.com/theayush737-prog/netmirror)
+`React` `Node.js` `AI API`
 
-Platform for creating and managing shortened URLs with tracking.
-- Built with: **React, Node.js, MongoDB**
-- Features: URL shortening, analytics, custom redirects
+[🔗 Live](https://snapcut.com) · [📂 Code](https://github.com/theayush737-prog/snapcut)
+
+</td>
+<td width="50%">
+
+### 🔁 NetMirror
+**URL Redirect Platform**
+
+Shorten, manage, and redirect links at scale.
+
+`React` `Node.js` `MongoDB`
+
+[🔗 Live](https://netmirror.com) · [📂 Code](https://github.com/theayush737-prog/netmirror)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 The Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theayush737-prog&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff)
+<img src="https://github-readme-stats.vercel.app/api?username=theayush737-prog&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theayush737-prog&theme=radical&hide_border=true&background=0d1117&ring=A371F7&fire=E100FF" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theayush737-prog&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayush737-prog&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A371F7" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theayush737-prog&theme=dark&hide_border=true&background=0d1117)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theayush737-prog&theme=redical&hide_border=true&bg_color=0d1117&color=A371F7&line=E100FF&point=ffffff" width="100%"/>
 
 </div>
 
 ---
 
-## 🎥 Latest from YouTube (@TechAkki)
+## 🎥 TechAkki — Tech Reviews & Content
 
-Building a tech review channel covering:
-- 📱 Latest smartphone reviews
-- 💻 Tech gadget unboxings
-- 🎓 Coding tutorials
-- 🔧 Web development guides
+> Smartphone reviews, tech unboxings, and build-in-public content.
 
-[▶️ Subscribe to TechAkki](https://youtube.com/@TechAkki)
+<div align="center">
 
----
+[![YouTube](https://img.shields.io/badge/Subscribe-TechAkki-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TechAkki)
 
-## 🎯 Currently Learning
-
-- 🔍 Advanced Data Structures & Algorithms
-- 🏗️ System Design for Scalable Applications
-- 📚 Competitive Programming
-- ☁️ Cloud Technologies (AWS/Google Cloud)
+</div>
 
 ---
 
-## 💡 What I'm Working On
+## 🎯 2026 Roadmap
 
-- 🔨 Building more MERN stack projects
-- 🎬 Growing TechAkki YouTube channel
-- 📖 Preparing for FAANG interviews
-- 💼 Looking for freelance opportunities
-
----
-
-## 📈 Growth Goals
-
-```
-2026 Q4: 
-  ✓ 10+ GitHub projects
-  ✓ Strong DSA foundation
-  ✓ 5K+ YouTube subscribers
-  ✓ Secure internship at top company
-  
-2027:
-  ✓ Transition to full-time engineer role
-  ✓ Contribute to open-source
-  ✓ Launch SaaS product
-```
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to:
-- 💬 Discussing web development & tech
-- 🤝 Collaborating on projects
-- 🎓 Sharing knowledge & learning together
-- 💼 Freelance opportunities
-
-**Feel free to reach out:**
-- 📧 Email: [ayushdevx10@gmail.com](mailto:ayushdevx10@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ayushh-koli-9429a03a6](https://linkedin.com/in/ayushh-koli-9429a03a6)
-- 🐙 GitHub: [github.com/theayush737-prog](https://github.com/theayush737-prog)
+- [x] Ship Snapcut & NetMirror
+- [ ] 10+ public repos with clean READMEs
+- [ ] Strong DSA foundation (300+ problems)
+- [ ] Land first internship / freelance client
+- [ ] Grow TechAkki to 5K+ subs
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my projects helpful, consider giving them a star!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer"/>
 
-<img src="https://media.giphy.com/media/LnQjW7rxyXtxN1oaSd/giphy.gif" width="60px"> 
-
-**Happy Coding!** 🚀
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theayush737-prog)
+**Always building. Always shipping. Let's connect.** ⚡
 
 </div>
